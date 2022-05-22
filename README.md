@@ -31,9 +31,9 @@
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [tailwindcss](https://tailwindcss.com/) - tailwindcss framework
+- [tailwindcss](https://tailwindcss.com/) - framework
 
 ## Author
 
 - GitHub - [Christopher Burton](https://www.github.com/SparkSyndrome)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/SparkSyndrome)
+- Frontend Mentor - [@SparkSyndrome](https://www.frontendmentor.io/profile/SparkSyndrome)
