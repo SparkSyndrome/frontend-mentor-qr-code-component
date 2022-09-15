@@ -23,7 +23,7 @@
 ## My process
 
 - Wrote HTML.
-- Wrote CSS section by section, using tailwindcss.
+- Wrote CSS section by section, originally using tailwindcss, which was later refactored to vanilla CSS (to get rid of the HTML validation errors when Frontend Mentor parsed the solution).
 
 ### Built with
 
