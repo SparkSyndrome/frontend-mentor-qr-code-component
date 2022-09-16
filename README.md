@@ -13,7 +13,7 @@
 
 ### Screenshot
 
-![]<img width="600" alt="Screen Shot 2022-09-16 at 4 40 10 PM" src="https://user-images.githubusercontent.com/96607271/190826960-fa9d2e77-f4bf-471e-bca2-acafc61e871c.png">
+<img width="600" alt="Screen Shot 2022-09-16 at 4 40 10 PM" src="https://user-images.githubusercontent.com/96607271/190826960-fa9d2e77-f4bf-471e-bca2-acafc61e871c.png">
 
 ### Links
 
