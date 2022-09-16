@@ -31,7 +31,7 @@
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [tailwindcss](https://tailwindcss.com/) - framework
+- ~~[tailwindcss](https://tailwindcss.com/) - framework~~
 
 ## Author
 
