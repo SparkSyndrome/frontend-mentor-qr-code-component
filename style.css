@@ -36,7 +36,7 @@ main {
 }
 
 .text {
-    padding: 1rem 0.875rem;
+    padding: 0.875rem;
 }
 
 .text h1 {
@@ -44,7 +44,6 @@ main {
     font-size: 24px;
     font-weight: 700;
     line-height: 2rem;
-    padding-bottom: 1rem;
 }
 
 .text p {
@@ -61,4 +60,5 @@ main {
 
 .attribution a {
     color: hsl(228, 45%, 44%);
+    text-decoration: none;
 }
